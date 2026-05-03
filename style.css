@@ -389,6 +389,34 @@ h2 {
   color: var(--color-text);
 }
 
+.delivery-section {
+  display: none;
+}
+
+.delivery-section:target {
+  display: block;
+}
+
+.delivery-panel {
+  max-width: var(--content-narrow);
+  margin-inline: auto;
+  padding: clamp(var(--space-8), 7vw, var(--space-16));
+  border-radius: var(--radius-xl);
+  background: var(--color-surface);
+  border: 1px solid color-mix(in oklab, var(--color-text), transparent 88%);
+  box-shadow: var(--shadow-md);
+}
+
+.delivery-panel .button {
+  margin-top: var(--space-6);
+}
+
+.delivery-note {
+  margin-top: var(--space-5);
+  color: var(--color-text-muted);
+  font-size: var(--text-sm);
+}
+
 .site-footer {
   border-top: 1px solid color-mix(in oklab, var(--color-text), transparent 88%);
   padding-block: var(--space-8);
