@@ -132,6 +132,16 @@ body {
   color: var(--color-text-muted);
   text-decoration: none;
   font-size: var(--text-sm);
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  padding-inline: var(--space-3);
+  border-radius: var(--radius-full);
+}
+
+.nav-link:hover {
+  color: var(--color-text);
+  background: color-mix(in oklab, var(--color-text), transparent 94%);
 }
 
 .theme-toggle {
@@ -236,15 +246,15 @@ h1 {
 }
 
 .price-card {
-  position: absolute;
-  right: var(--space-4);
-  bottom: calc(var(--space-8) * -1);
+  position: static;
+  margin-top: var(--space-4);
+  margin-left: auto;
   max-width: 18rem;
   background: var(--color-surface-2);
   border: 1px solid color-mix(in oklab, var(--color-text), transparent 88%);
   border-radius: var(--radius-xl);
   padding: var(--space-5);
-  box-shadow: var(--shadow-md);
+  box-shadow: var(--shadow-sm);
 }
 
 .price-card strong {
@@ -392,7 +402,6 @@ h2 {
   }
 
   .price-card {
-    position: static;
-    margin-top: var(--space-4);
+    margin-left: 0;
   }
 }
