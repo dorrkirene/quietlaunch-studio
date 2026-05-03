@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+  <rect width="1080" height="1080" fill="#FBF8F2"/>
+  <rect x="81" y="81" width="918" height="918" rx="37" fill="#F4EFE7" stroke="#D9CBBF" stroke-width="2"/>
+  
+  
+  <text x="140" y="151" fill="#A9826D" font-family="Arial, sans-serif" font-size="32" font-weight="700" letter-spacing="2">PROOF</text>
+  <text x="140" y="388" fill="#26211B" font-family="Georgia, serif" font-size="81" font-weight="700">What changed after the reset</text>
+  <foreignObject x="140" y="475" width="734" height="259">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial,sans-serif;font-size:37px;line-height:1.35;color:#6F7564;">Use this layout for social proof, client wins, and mini case studies.</div>
+  </foreignObject>
+  <line x1="140" y1="885" x2="820" y2="885" stroke="#A9826D" stroke-width="3"/>
+  <text x="140" y="961" fill="#4B4038" font-family="Arial, sans-serif" font-size="27" font-weight="700">QuietLaunch Studio</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect width="1000" height="1500" fill="#FBF8F2"/>
+  <rect x="75" y="75" width="850" height="1350" rx="35" fill="#F4EFE7" stroke="#D9CBBF" stroke-width="2"/>
+  <rect x="0" y="0" width="1000" height="195" fill="#4B4038"/>
+  
+  <text x="130" y="210" fill="#FBF8F2" font-family="Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="2">PINTEREST</text>
+  <text x="130" y="540" fill="#26211B" font-family="Georgia, serif" font-size="75" font-weight="700">Brand refresh ideas for creators</text>
+  <foreignObject x="130" y="660" width="680" height="360">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Arial,sans-serif;font-size:35px;line-height:1.35;color:#6F7564;">Soft neutral templates for launches, opt-ins, and services.</div>
+  </foreignObject>
+  <line x1="130" y1="1230" x2="760" y2="1230" stroke="#A9826D" stroke-width="3"/>
+  <text x="130" y="1335" fill="#4B4038" font-family="Arial, sans-serif" font-size="25" font-weight="700">QuietLaunch Studio</text>
+</svg>
