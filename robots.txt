@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dorrkirene.github.io/quietlaunch-studio/sitemap.xml
+Sitemap: https://quietlaunchkit.com/sitemap.xml
